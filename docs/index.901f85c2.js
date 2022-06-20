@@ -575,7 +575,7 @@ class Game {
 }
 let g = new Game();
 
-},{"pixi.js":"dsYej","./images/Map & Terrain/ZeldaWorld.png":"iPcWN","./images/PlayerCharacters/Player.png":"5XZIe","./TownMap":"gzP2J","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./Player":"8YLWx"}],"dsYej":[function(require,module,exports) {
+},{"pixi.js":"dsYej","./images/Map & Terrain/ZeldaWorld.png":"iPcWN","./images/PlayerCharacters/Player.png":"5XZIe","./TownMap":"gzP2J","./Player":"8YLWx","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"dsYej":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "utils", ()=>_utils
